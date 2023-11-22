@@ -25,9 +25,7 @@ body {
   background-color: rgb(0, 0, 0, 0.5);
 }
 .search {
-  width: 100% ;
-    display: contents;
- 
+  min-width: auto;
   
   
  
