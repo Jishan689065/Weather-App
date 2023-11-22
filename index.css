@@ -57,6 +57,7 @@ body {
   height: 60px;
   cursor: pointer;
   background-color: #fff;
+  min-width: auto;
  
 
   
